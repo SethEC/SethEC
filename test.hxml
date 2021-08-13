@@ -1,0 +1,4 @@
+--class-path test
+--class-path src
+--main Test
+--neko bin/test.n
